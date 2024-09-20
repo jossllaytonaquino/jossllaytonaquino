@@ -9,6 +9,7 @@
 
 
 ## ⚡ My Developing Tools:
-<img src="![Visual_Studio_Icon_2022 svg](https://github.com/user-attachments/assets/d93346f4-470d-4816-9ed9-91b67bb59d9e)" width="100" height="100">
 
-<img src="![Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/0e9805fd-caf6-4874-83dc-803596e1197e)" width="100" height="100">
+![Visual_Studio_Icon_2022 svg](https://github.com/user-attachments/assets/b4756b98-392b-4990-8015-156b2e5f6a1c)
+
+![Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/0e9805fd-caf6-4874-83dc-803596e1197e)
