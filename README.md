@@ -10,6 +10,7 @@
 
 ## ⚡ My Developing Tools:
 
-![Vs](https://github.com/user-attachments/assets/2edb9643-badb-4731-8bf8-c25215d4d728)
+![Vs](https://github.com/user-attachments/assets/2edb9643-badb-4731-8bf8-c25215d4d728) ![Visual](https://github.com/user-attachments/assets/693b0b99-363f-48fc-904f-f54ae008b643) ![git-logo-png-transparent-1](https://github.com/user-attachments/assets/eb3fffb9-9d63-4f6e-b6af-bced4d2b72d7)
 
-![Visual](https://github.com/user-attachments/assets/693b0b99-363f-48fc-904f-f54ae008b643)
+
+
